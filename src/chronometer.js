@@ -1,5 +1,4 @@
 //Time is in seconds
-
 class Chronometer {
   constructor() {
     this.currentTime = 0;
